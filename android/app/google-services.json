@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "189854422654",
+    "firebase_url": "https://hiraj-sedeera-default-rtdb.firebaseio.com",
+    "project_id": "hiraj-sedeera",
+    "storage_bucket": "hiraj-sedeera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189854422654:android:612e46669eb65f91a36a2f",
+        "android_client_info": {
+          "package_name": "com.smartersvision.harajsedirah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5uPDTCeNZWr7LnkAWswxcbQf8HhUB1fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
